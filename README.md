@@ -14,7 +14,7 @@ A simple, real-time web chat application built from scratch with Node.js, Socket
 ---
 ## 📸 Screenshot
 
-![Chat App Screenshot](https://i.imgur.com/your-screenshot-code.png)
+![Chat App Screenshot](https://i.postimg.cc/j25vXJPH/Screenshot-2025-09-27-234653.png)
 
 
 ---
@@ -40,8 +40,8 @@ You must have the following software installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/kamalyadav07/Chat-UI.git](https://github.com/kamalyadav07/Chat-UI.git)
+    cd Chat-UI
     ```
 
 2.  **Install backend dependencies:**
