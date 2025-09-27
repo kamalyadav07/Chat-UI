@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun Friday Group</title>
+    
+    <link rel="stylesheet" href="style.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+
+    <div class="chat-container">
+        <header class="chat-header">
+            <i class="fas fa-arrow-left"></i>
+            <img src="https://i.pravatar.cc/50?img=5" alt="Group Icon" class="group-icon">
+            <h2>Fun Friday Group</h2>
+            <div class="header-icon-wrapper">
+                <i class="fas fa-user-secret"></i>
+            </div>
+        </header>
+
+        <div class="chat-date-header">
+            <span>9/27/2025</span>
+        </div>
+
+        <main class="chat-messages"></main>
+
+        <div class="system-message-footer"></div>
+
+        <footer class="chat-form-container">
+            <form id="chat-form">
+                <input id="msg" type="text" placeholder="Type a message..." required autocomplete="off">
+                <button type="button" class="icon-btn"><i class="fas fa-camera"></i></button>
+                <button type="button" class="icon-btn"><i class="fas fa-paperclip"></i></button>
+                <button type="submit" class="send-btn"><i class="fas fa-paper-plane"></i></button>
+            </form>
+        </footer>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
