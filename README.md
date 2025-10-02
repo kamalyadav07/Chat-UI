@@ -14,7 +14,7 @@ A simple, real-time web chat application built from scratch with Node.js, Socket
 ---
 ## 📸 Screenshot
 
-![Chat App Screenshot](https://i.postimg.cc/RFJVX5T9/Screenshot-2025-09-30-112551.png)
+![Chat App Screenshot](https://i.postimg.cc/QxyYZ2Qz/Screenshot-2025-09-27-234653.png)
 
 
 ---
